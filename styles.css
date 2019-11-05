@@ -1,6 +1,6 @@
 .introTitle {
     text-align: center;
-    height: 25vh;
+    height: 5vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,7 +8,7 @@
   }
 .pic1 {
   
-  height: 700px;
+  height: 650px;
   width: 900px;
   box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
